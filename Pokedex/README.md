@@ -1,0 +1,2 @@
+# Pokedex
+Pokedex project showing the first 151 Pokemon. The API that the tutorial used for images is no longer working so I could only get empty cards. I would like to add more to this in the future if I can get the images working. I want more statistics like moves and evolutions.
